@@ -1,2 +1,2 @@
-# goit-markup-hw-02
-GoIT FSon42 g21 HW2
+# goit-markup-hw-01
+FSon42 HW1
