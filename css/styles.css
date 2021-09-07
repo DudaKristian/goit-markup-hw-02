@@ -1,0 +1,57 @@
+:root {
+  --accent-color: #2196f3;
+  --title-color: #212121;
+  --text-color: #757575;
+  --accent-white: #ffffff;
+  --logo-secondary-color: #000000;
+}
+li {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+}
+body {
+  color: var(--text-color);
+}
+h2,
+h3 {
+  color: var(--title-color);
+}
+.logo-header {
+  color: var(--logo-secondary-color);
+}
+.logo-web {
+  color: var(--accent-color);
+}
+.navigation a {
+  color: var(--title-color);
+}
+.navigation :focus,
+.navigation :hover,
+.contacts :hover,
+.contacts :focus {
+  color: var(--accent-color);
+}
+.contacts a {
+  color: var(--text-color);
+}
+.hero-title {
+  color: var(--accent-white);
+  background-color: #2f303a;
+}
+.button {
+  color: var(--accent-white);
+  background-color: var(--accent-color);
+}
+.teammember-name {
+  color: var(--title-color);
+}
+.logo-footer {
+  color: var(--accent-white);
+  background-color: #2f303a;
+}
+.address {
+  color: var(--accent-white);
+  background-color: #2f303a;
+}
